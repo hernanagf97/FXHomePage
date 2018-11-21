@@ -1,0 +1,34 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.top{
+	-fx-background-color: rgb(128,128,255)
+}
+
+.barra{
+	-fx-background-color: rgb(128,128,255)
+}
+
+.botonesTOP{
+	-fx-background-color: rgb(0,255,255);
+	-fx-font-style: normal ;
+	-fx-text-fill: rgb(0,0,0);
+}
+
+.botonesMIDDLE{
+	-fx-background-color: rgb(0,255,108);
+	-fx-font-style: normal ;
+	-fx-text-fill: rgb(0,0,0);
+}
+
+.botonesBOTTOM{
+	-fx-background-color: rgb(62,158,255);
+	-fx-font-style: normal ;
+	-fx-text-fill: rgb(0,0,0);
+}
+
+.botones{
+	-fx-background-color: rgb(62,158,255);
+}
+
+
+
